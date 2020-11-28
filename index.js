@@ -88,6 +88,7 @@ else if (d.getDay()==6){
     document.getElementById("l1").innerHTML = "Enjoy";
     document.getElementById("l2").innerHTML = "Enjoy";
     document.getElementById("l3").innerHTML = "Enjoy";
+    document.getElementById("tc").innerHTML = "Class starts from 10:00 AM "
 }
 
 
